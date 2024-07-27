@@ -7,6 +7,7 @@ D:\Software Testing\Automation Testing\Opencart_V1.2.1\src\test\java\testBase\Ba
 D:\Software Testing\Automation Testing\Opencart_V1.2.1\src\test\java\testCases\TC001_AccountRegistrationTest.java
 D:\Software Testing\Automation Testing\Opencart_V1.2.1\src\test\java\testCases\TC_002_LoginTest.java
 D:\Software Testing\Automation Testing\Opencart_V1.2.1\src\test\java\testCases\TC_003_LoginDDT.java
+D:\Software Testing\Automation Testing\Opencart_V1.2.1\src\test\java\testCases\TC_004_Search.java
 D:\Software Testing\Automation Testing\Opencart_V1.2.1\src\test\java\utilities\DataProviders.java
 D:\Software Testing\Automation Testing\Opencart_V1.2.1\src\test\java\utilities\ExcelUtility.java
 D:\Software Testing\Automation Testing\Opencart_V1.2.1\src\test\java\utilities\ExtentReportManager.java
